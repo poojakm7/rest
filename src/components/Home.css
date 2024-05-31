@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+      background-image: image-set('https://cdn.wallpapersafari.com/48/50/2YgsRc.jpg');
+  }
+  .div2{
+    width:400px;
+    height:500px;
+    background-color:transparent;
+    text-align: center;
+}
